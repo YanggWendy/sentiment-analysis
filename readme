@@ -1,1 +1,2 @@
-hi
+This project aims to perform sentiment analysis on text and other relevant data to predict the ratings of the product. We did a thorough exploration of data, and made use of various model architectures to achieve the
+optimal result of accuracy and macro F1.
